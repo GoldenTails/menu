@@ -6,7 +6,7 @@ It has some great coding decisions, mixed with some terrible ones.
 
 
 To make a PK3 in the `builds/` directory, execute `./buildMenu.sh` in a Linux environment.
-
+When a PK3 is made, it will automatically make a symlink to it at `menu.pk3` from the repository root.
 It requires that `zip` is installed on the system for it to work.
 
 
